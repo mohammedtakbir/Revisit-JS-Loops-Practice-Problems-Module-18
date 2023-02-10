@@ -1,5 +1,6 @@
-let count =0;
+
+let count = 0;
 while(count < 6){
     console.log(count);
-    count++
+    count += 2
 }
